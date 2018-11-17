@@ -1,0 +1,10 @@
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\bin\Debug\AutoCSharp.exe.config
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\bin\Debug\AutoCSharp.exe
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\bin\Debug\AutoCSharp.pdb
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.csprojAssemblyReference.cache
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.frmAutoCsharp.resources
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.Properties.Resources.resources
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.csproj.GenerateResource.cache
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.exe
+D:\VisualStudioCS\AutoCSharp\AutoCSharp\obj\Debug\AutoCSharp.pdb
